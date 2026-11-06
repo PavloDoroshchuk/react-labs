@@ -22,11 +22,11 @@ https://denysmatsevych.github.io/web-development-2026/react/labs/lab-2/
 
 Заповніть за вкладкою **Components ⚛** у React DevTools (§4.6).
 
-```text
-App
-```
+![Дерево рендеренгу](./visualized_trees/visualize_tree.png)
 
 ## Дерево залежностей модулів
+
+![Дерево залежностей модулів](./visualized_trees/dependencies.png)
 
 Заповніть за рядками `import` у файлах `src/` (§4.6).
 
